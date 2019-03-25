@@ -1,7 +1,7 @@
 # PowerApps and Flow PowerShell Scripts
 Use PowerShell to automate ALM, Governance, and Administration activities on the Power Platform
 
-## PowerApps and Flow PowerShell Gallery modules
+## PowerShell Gallery modules
 See the documentation page [here](https://docs.microsoft.com/en-us/power-platform/admin/powerapps-powershell) for information on installation and requirements.
 
 ## Sections

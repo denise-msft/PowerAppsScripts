@@ -23,7 +23,7 @@ Input | Type | Description
 Environment | string | Optional. The name (GUID) of the Environment. 
 Path | string | Optional. The path and name for the output csv file.
 
-### [PowerApps with on Prem Connectors using Data Gateway](./findPowerAppsWithCustomConnectors.ps1)
+### [PowerApps with on Prem Connectors using Data Gateway](./findPowerAppsWithOnPremConnectors.ps1)
 Lists connections to an On Premise gateway being used in a PowerApp.
 
 Input | Type | Description
@@ -42,19 +42,26 @@ Path | string | Optional. The path and name for the output csv file.
 
 <br>
 
----
 
 ## Flows
  
-### [Flows with HTTP Actions](./findPowerAppsWithCustomConnectors.ps1)
+### [Flows with HTTP Actions](./findFlowsWithHttpAction.ps1)
 Lists Flows that use the HTTP request action.
 
 Input | Type | Description
 ---|---|---
 Environment | string | Optional. The name (GUID) of the Environment. 
 Path | string | Optional. The path and name for the output csv file.
+ 
+### [Flows with On Premise Connectors](./findFlowsWithOnPremConnector.ps1)
+Lists connections using an on premise gateway being used in a PowerApp.
 
-### [Flows with Custom Connectors](./findPowerAppsWithCustomConnectors.ps1)
+Input | Type | Description
+---|---|---
+Environment | string | Optional. The name (GUID) of the Environment. 
+Path | string | Optional. The path and name for the output csv file.
+
+### [Flows with Custom Connectors](./findFlowsWithCustomConnectors.ps1)
 Lists connections to custom connectors being used in a Flow.
 
 Input | Type | Description

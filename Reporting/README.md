@@ -59,8 +59,8 @@ Lists connections to custom connectors being used in a Flow.
 
 Input | Type | Description
 ---|---|---
-**Username** | string | Required. The username of the admin account that will login to the AAD and PowerApps API services. 
-**Password** | string | Required. 
+**Username** | string | Required. The username of the admin account. 
+**Password** | string | Required. The password of the admin account.
 Environment | string | Optional. The name (GUID) of the Environment. 
 Path | string | Optional. The path and name for the output csv file. 
 

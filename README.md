@@ -7,7 +7,7 @@ See the documentation page [here](https://docs.microsoft.com/en-us/power-platfor
 ## Sections
 Based on the task, there are subfolders that hold multiple scripts to programmatically access the PowerApps and Flow APIs.
 
-### Reporting
+### [Reporting](./Reporting)
 Use the reporting scripts to help discover a filtered list of PowerApps or Flows based on some features they leverage.
 
 ### Administration   

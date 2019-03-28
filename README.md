@@ -8,7 +8,7 @@ These scripts are experimental and not officialy supported by Microsoft. They ar
 See the documentation page [here](https://docs.microsoft.com/en-us/power-platform/admin/powerapps-powershell) for information on installation and requirements.
 
 ## Run the scripts
-Once the modules are installed, follow these instructions to run the scripts provided below. If you receive a security warning, you may need to unblock running the downloaded script, see this article for more details.
+Once the modules are installed, follow these instructions to run the scripts provided below. If you receive a security warning, you may need to unblock running the downloaded script, see (this article)[https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_execution_policies?view=powershell-6#powershell-execution-policies] for more details.
 
 1. Download the desired script.
 

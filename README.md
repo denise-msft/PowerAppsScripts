@@ -16,11 +16,11 @@ Once the modules are installed, follow these instructions to run the scripts pro
 
 3. Run the script by typing out the name
 
-    .\findFlowsWithHttpAction.ps1
+        .\findFlowsWithHttpAction.ps1
 
 4. Each of these scripts have optional parameters to specify behavior, such as the Environment (EnvironmentName) or the output file path name (Path). More details on each parameter is provided in the subfolder's documentation.
 
-    .\findFlowsWithHttpAction.ps1 -EnvironmentName 820d6103-3f73-4107-a1b2-3449a98f5049 -Path ./myFlowsWithHttp.csv
+        .\findFlowsWithHttpAction.ps1 -EnvironmentName 820d6103-3f73-4107-a1b2-3449a98f5049 -Path ./myFlowsWithHttp.csv
 
 
 ## Sections
